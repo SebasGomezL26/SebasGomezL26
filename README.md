@@ -1,5 +1,5 @@
 # 💫 About Me:
-Desarrollador en formación con pasión por la tecnología y el código limpio. Actualmente aprendiendo y creando proyectos para fortalecer mis habilidades en desarrollo de software.
+Desarrollador de software con experiencia en desarrollo Full Stack, bases de datos y automatización de procesos. Interesado en crear soluciones tecnológicas, aprender nuevas herramientas y desarrollar aplicaciones funcionales.
 
 
 ## 🌐 Socials:
