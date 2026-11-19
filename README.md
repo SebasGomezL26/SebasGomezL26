@@ -1,5 +1,5 @@
 # 💫 About Me:
-Desarrollador de software con experiencia en desarrollo Full Stack, bases de datos y automatización de procesos. Interesado en crear soluciones tecnológicas, aprender nuevas herramientas y desarrollar aplicaciones funcionales.
+Desarrollador de software con conocimientos en desarrollo Full Stack, Python, JavaScript, bases de datos y automatización de procesos. Me interesa construir soluciones tecnológicas funcionales, optimizar procesos y desarrollar aplicaciones que resuelvan problemas reales. Actualmente continúo fortaleciendo mis habilidades técnicas y construyendo proyectos personales para crecer profesionalmente.
 
 
 ## 🌐 Socials:
